@@ -35,7 +35,10 @@
 <img src="https://img.shields.io/badge/React-Library-blue"> <img src="https://img.shields.io/badge/JavaScript-Language-yellow"> <img src="https://img.shields.io/badge/HTML5-Markup%20Language-orange"> 
 
 
--**Parallax scrolling is a web site trend where the background content (i.e. an image) is moved at a different speed than the foreground content while scrolling.**
+- **Parallax scrolling is a web site trend where the background content (i.e. an image) is moved at a different speed than the foreground content while scrolling.**
+- **Parallax scrolling is a web design technique in which the website background moves at a slower pace than the foreground. This results in a 3D effect as visitors scroll down the site, adding a sense of depth and creating a more immersive browsing experience**
+
+*Want to know more about Parallax Scrolling* [Click Here](https://www.wix.com/blog/2019/08/what-is-parallax-scrolling-explained-with-examples/)
 
 ### Credit
 
